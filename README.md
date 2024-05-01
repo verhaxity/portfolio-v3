@@ -1,2 +1,2 @@
 # Revamped portfolio
-# <a href="https://faaiq.online">Revamped portfolio</a>
+# <a href="https://faaiq.online">faaiq.online</a>
